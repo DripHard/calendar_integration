@@ -1,0 +1,1 @@
+ C:\\Users\\warre\\OneDrive\\Desktop\\flutter\\calendar_integration\\calendar_integration\\.dart_tool\\flutter_build\\8d6d45636fd12aa8e76d2bf899309bd4\\native_assets.json: 
